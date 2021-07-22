@@ -11,3 +11,4 @@ var Encapsulate = /** @class */ (function () {
 var obj3 = new Encapsulate();
 console.log(obj3.str);
 obj3.say();
+var aa = "haha";

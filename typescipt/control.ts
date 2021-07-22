@@ -8,3 +8,4 @@ class Encapsulate{
 var obj3 = new Encapsulate()
 console.log(obj3.str)
 obj3.say();
+const aa:string="haha"

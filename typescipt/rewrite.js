@@ -17,7 +17,7 @@ var PrinterClass = /** @class */ (function () {
     function PrinterClass() {
     }
     PrinterClass.prototype.doPrint = function () {
-        console.log("父类的doPrint方法");
+        console.log("父类的doPrint()方法");
     };
     return PrinterClass;
 }());
