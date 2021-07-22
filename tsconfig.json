@@ -1,0 +1,14 @@
+{
+    "include": [
+        "./typescipt/src/**/*"
+, "webpack.config.js"    ],
+    "exclude": [
+        "./typescipt/common/**/*"
+    ],
+    "compilerOptions": {
+        "outDir": "./js",
+        "allowJs":true,
+        "removeComments": true
+    }
+    
+}
